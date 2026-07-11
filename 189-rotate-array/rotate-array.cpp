@@ -7,5 +7,5 @@ public:
             temp[(i+k) % nums.size()]=nums[i];
         }
         nums = temp;
-    }
+    }  
 }; 
