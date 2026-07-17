@@ -14,6 +14,7 @@ public:
                 count = 0;
             }
         }
+        
         maxCount = max(maxCount,count);
         return maxCount;
     }
